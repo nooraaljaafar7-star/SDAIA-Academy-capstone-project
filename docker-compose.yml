@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  contract-audit-app:
+    build: .
+    container_name: contract_audit_pipeline
+    ports:
+      - "7860:7860"
+      - "8000:8000"
+    env_file:
+      - .env
+    restart: always

@@ -1,0 +1,23 @@
+# FastAPI & Server
+fastapi
+uvicorn
+python-dotenv
+
+# LangChain & Groq (Free & Fast)
+langchain
+langchain-community
+langchain-groq
+langchain-chroma
+chromadb
+sentence-transformers
+
+# PDF Processing
+pypdf
+
+# Monitoring & Tracing (Local Arize Phoenix)
+arize-phoenix
+openinference-instrumentation-langchain
+
+# Storage Client (MinIO Local)
+minio
+gradio

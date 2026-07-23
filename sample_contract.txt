@@ -1,0 +1,14 @@
+
+SAMPLE VENDOR SERVICE AGREEMENT
+
+1. Data Handling:
+Vendor will process customer data. Data will be stored using standard encryption at rest (AES-128).
+
+2. Liability:
+Vendor limits its total liability for any data breach, confidentiality breach, or negligence to $50,000 USD total.
+
+3. Termination:
+Either party may terminate this agreement with 7 days written notice without cause.
+
+4. Subcontracting:
+Vendor reserves the right to subcontract services to overseas third parties at its sole discretion.
