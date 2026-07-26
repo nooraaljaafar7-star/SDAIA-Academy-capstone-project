@@ -26,7 +26,7 @@ An end-to-end AI-powered legal & security audit framework designed to evaluate c
 
 ## 📊 Sample Audit Output
 
-![Compliance Audit Output](assets/output.png)
+![Compliance Audit Output](assets/output.jpg)
 
 ---
 
