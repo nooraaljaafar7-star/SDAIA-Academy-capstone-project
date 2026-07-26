@@ -16,14 +16,11 @@ An end-to-end AI-powered legal & security audit framework designed to evaluate c
 
 ---
 
-## 🏗️ Architecture Overview
-
-[ PDF Contract ] ➔ [ Text Extraction ] ➔ [ ChromaDB (RAG Rules Query) ]
-│
-▼
-[ Structured JSON Audit Report ]  [ Groq LLaMA 3.3 70B Engine ]
-
-
+graph TD
+    A[📄 PDF Contract] --> B[🔍 Text Extraction]
+    B --> C[🗂️ ChromaDB - RAG Rules Query]
+    C --> D[🧠 Groq LLaMA 3.3 70B Engine]
+    D --> E[📊 Structured JSON Audit Report]
 ---
 
 ## 🚀 Quick Start (Docker Deployment)
